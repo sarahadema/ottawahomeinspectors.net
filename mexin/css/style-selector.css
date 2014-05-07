@@ -1,7 +1,7 @@
 /* #Style Selector
 ================================================== */
 
-#style-selector { background:#fff; width:212px; display:block; position:fixed; left:0; top:98px; z-index:6789251; border-radius:0 5px 5px 0; -webkit-box-shadow: 0 0 6px rgba(0,0,0,0.2);  -moz-box-shadow: 0 0 5px rgba(0,0,0,0.2); box-shadow: 0 0 5px rgba(0,0,0,0.2); font-size:13px; border:1px solid #dedede\9;}
+#style-selector { background:#fff; width:212px; display:block; position:fixed; left:0; top:98px; z-index:6789251; border-radius:0 5px 5px 0; -webkit-box-shadow: 0 0 6px rgba(0,0,0,0.2);  -moz-box-shadow: 0 0 5px rgba(0,0,0,0.2); box-shadow: 0 0 5px rgba(0,0,0,0.2); font-size:13px; border:1px solid #dedede;}
 #style-selector select { font-size:12px; }
 #style-selector .title-ss { background:#3f454a; line-height:45px; height:45px; border-bottom:1px solid #dbdbdb; text-align:center; font-size:15px; color:#fff; }
 #style-selector .box-ss { line-height:36px; height:36px;  text-align:center; color:#aaa; }

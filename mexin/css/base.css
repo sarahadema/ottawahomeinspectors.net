@@ -39,6 +39,10 @@
 		border-collapse: collapse;
 		border-spacing: 0; }
 		:focus { outline:0; }
+    header{
+        background-color: #595959;
+        color: #fff;
+    }
         
 
 /* #Basic Styles
@@ -52,6 +56,11 @@
 		-webkit-text-size-adjust: 100%;
  }
 
+a,
+a:link,
+a:visited  {
+    text-decoration: none;
+}
 
 /* #Typography
 ================================================== */

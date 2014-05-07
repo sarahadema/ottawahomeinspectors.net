@@ -1,4 +1,4 @@
-﻿/*----------------------------------
+/*----------------------------------
 
 	Theme Name: Mexin
 	Theme URI: http://webnus.net/mexin
@@ -39,7 +39,7 @@
 
 #wrap {  margin:0 auto; position:relative; padding:0; background:#fff; }
 #boxed-wrap { margin:0 auto; background:#fff; width:1000px; -webkit-box-shadow: 0 0 9px rgba(0,0,0,0.4);  -moz-box-shadow: 0 0 7px rgba(0,0,0,0.4); box-shadow: 0 0 7px rgba(0,0,0,0.4); }
-#boxed-wrap { border:1px solid #d6dbdc\9; border-bottom:none; }
+#boxed-wrap { border:1px solid #d6dbd9; border-bottom:none; }
 #full-width, #hero { width:100%; padding:0; clear:both;  border-bottom:1px solid #d6d6d6; }
 #full-width img, #hero img { margin:0; max-width:100%; margin-bottom:-6px; }
 #wrap #layerslider-container, #wrap #layerslider-wrapper, #wrap .ls-vincie{ max-width:1000px; }
@@ -69,7 +69,7 @@ header.sticky { margin: 0; position: fixed; top: 0; z-index: 100; }
 #site-title { text-transform:capitalize; font-weight:900; line-height:1;}
 #site-title small { font-size:16px; line-height:1.2; display:block; font-weight:normal;  letter-spacing: -0.02em; }
 
-.top-bar { background:#fff; height:26px; padding:12px 0; border-bottom:1px solid #f3f3f3; }  
+.top-bar { background:#595959; height:26px; padding:12px 0; border-bottom:1px solid #595959; }  
 .top-links { float:left; color:#a9b2b4; font-size:11px; padding:4px 0 0 4px; }
 .top-links.rgtflot { float:right; padding-right:10px;}
 .top-links img, .container .top-links p { float:left; margin:4px 3px 0 0;}
@@ -94,7 +94,7 @@ header.sticky { margin: 0; position: fixed; top: 0; z-index: 100; }
 span.row-mn {  background:url(../images/row-m1.png) no-repeat right center; width:10px; height:10px; position:absolute; margin-left:12px; right:6px; top:47%; }
 
 /* nav link */
-#nav a { height:80px; line-height:80px; padding:0 7px; display:block; text-transform:uppercase; position:relative; border-top:3px solid rgba(255, 255, 255, 0.0);  text-decoration:none; color:#444; opcity:1; text-align:center; -webkit-transition:border .15s ease-in-out, color .15s ease-in-out;	-moz-transition:border .15s ease-in-out, color .15s ease-in-out;	-ms-transition:border .15s ease-in-out, color .15s ease-in-out;	-o-transition:border .15s ease-in-out, color .15s ease-in-out; transition:border .15s ease-in-out, color .15s ease-in-out; }
+#nav a { height:80px; line-height:80px; padding:0 7px; display:block; text-transform:uppercase; position:relative; border-top:3px solid rgba(255, 255, 255, 0.0);  text-decoration:none; color:#fff; opacity:1; text-align:center; -webkit-transition:border .15s ease-in-out, color .15s ease-in-out;	-moz-transition:border .15s ease-in-out, color .15s ease-in-out;	-ms-transition:border .15s ease-in-out, color .15s ease-in-out;	-o-transition:border .15s ease-in-out, color .15s ease-in-out; transition:border .15s ease-in-out, color .15s ease-in-out; }
 #nav a:hover, #nav li:hover > a { color:#0093d0; border-top-color:#0093d0; }
 #nav li.current a {  color:#0093d0; border-top-color:#0093d0;}
 #nav a.drp-aro { padding-right:16px; }
@@ -353,7 +353,7 @@ ul.our-clients img { max-width:100%;}
 .team-member { border-radius: 4px; box-shadow: 0 0 3px rgba(0, 0, 0, 0.2); } 
 .serv-big-pic img, .serv-sm-pic img { border:4px solid #c7d2d7; background:#dae3e7; padding:1px; max-width:100%;  box-shadow: 0px 2px 4px -3px rgba(0,0,0,0.4); -webkit-box-shadow: 0px 2px 5px -3px rgba(0,0,0,0.4);}
 .serv-sm-pic img { background:rgba(0,0,0,0.1); border:3px solid rgba(255,255,255,0.3); box-shadow: 0px 2px 4px -3px rgba(0,0,0,0.7); -webkit-box-shadow: 0px 2px 5px -3px rgba(0,0,0,0.7); }
-.contact-form {  border:5px solid #e9e9e9; text-align:center; padding:20px; padding-bottom:0; border-radius:9px; }
+.contact-form {  border:5px solid #e9e9e9; text-align:center; padding:20px; padding-bottom:0; border-radius:9px;}
 .contact-form h5 { text-align:left; padding-left:11px; }
 .contact-form .txbx { width:91%; height:36px; border-width:3px; border-radius:4px;  float:none; margin:11px; padding-left:14px; font-size:16px; }
 .contact-form .txbx:focus { border-width:2px; border-radius:2px; }
@@ -567,8 +567,8 @@ a.show-all:active { background:#ffe483; border-color:#f7d96c; color:#b29839; }
 .pricing-table2 .plan-price span {	font-weight: 700; font-size: 34px; 	color: #465155; text-shadow: 0 1px 1px rgba(255,255,255,0.3); }
 .pricing-table2.featured .plan-title,.pricing-table2.featured .plan-price span, .pricing-table2.featured .plan-price small { color: #fff; }
 .plan-price small { font-size:14px; font-weight:400;}
-.pricing-table2.featured .plan-title { line-height: 46px; background-color:#e53f51; font-size: 14px; }
-.pricing-table2.featured .plan-price {	border-top: 1px solid #d63243;  background:#f45365; padding:15px;  }
+.pricing-table2.featured .plan-title { line-height: 46px; background-color:#19bc8f; font-size: 14px; }
+.pricing-table2.featured .plan-price {	border-top: 1px solid #0aad80;  background:#19bc8f; padding:15px;  }
 .pricing-table2.featured .plan-price span { font-size: 42px; text-shadow: 0 1px 1px rgba(0,0,0,0.4);}
 
 
@@ -944,7 +944,7 @@ input.btn404 { float:left; margin:1px; padding:8px 12px 9px; }
 
 	
 	.nav-wrap2, .nav-wrap2.darknavi { border:0 none; box-shadow:0 0 0 0; background:none;}
-	.top-bar { height:65px; padding:5px 0 6px; background:url(../images/topsobg1.png) repeat-x center center;}
+	.top-bar { height:65px; padding:5px 0 6px; background:red repeat-x center center;}
 	.top-bar .socailfollow, .top-links, .top-links.rgtflot, .top-bar .socailfollow.lftflot { float:none; text-align:center; clear:both;}
 	.top-bar .socailfollow, .top-bar .socailfollow.lftflot  {  padding-top:8px;}
 	.top-bar .socailfollow a, .top-bar .socailfollow.lftflot a, .top-links p, .top-links img { float:none; display:inline; padding-top:10px; background:none;}

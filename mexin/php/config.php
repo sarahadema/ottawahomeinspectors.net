@@ -1,6 +1,6 @@
 <?php
 // Write contact email reciever here
-$contactEmail = "webnus.net@gmail.com";  
+$contactEmail = "sarahadema@hotmail.com";  
 // Write Subscribe email reciever here
 $subscribeEmail = "webnus.net@gmail.com";
 

@@ -58,17 +58,17 @@ img.drod { padding:4px; background:#f2f6f8; border-radius: 7px;}
 .parallax-sec article { position: relative;  text-align: center;  top: 150px; height:120px;  width: 100%;  }
 .parallax-sec .blox, .parallax-sec .blox.dark { background:none;}
 
-.homedark, .aboutdark { width:100%; background:#141319; no-repeat top; height:560px; border-bottom: 4px solid #f1f1f1; position:relative;}
+.homedark, .aboutdark { width:100%; background:#595959;top; height:560px; border-bottom: 4px solid #f1f1f1; position:relative;}
 .aboutdark {background:#eee url(../images/about-ext-img1.jpg) center top fixed; height:645px; border:none;}
 .homedark #nav a { color:#fff;}
 .homedark #nav ul a { color:#595959;}
 .homedark #header { border-bottom: 3px solid rgba(255, 255, 0255, 0.09); }
 .homedark #search-form, .homedark #search-form2 { opacity:0.77;}
-.homedark .slogan { padding-top:10%; float:right;}
+.homedark .slogan { padding-top:8%; float:right;}
 .aboutdark .slogan { position:absolute; bottom:10%; right:7%; float:none;}
 .aboutdark.wpabtdrk { background:none; border:none;}
 .slogan h1 { font-size:67px; line-height:80px; }
-.homedark h1, .homedark h2, .homedark h3, .homedark h4, .homedark h5, .homedark h6, .homedark p { color:#fff; text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.6); }
+.homedark h1, .homedark h2, .homedark h3, .homedark h4, .homedark h5, .homedark h6, .homedark p { color:#fff; }
 .slogan  span, .blox.dark .slogan  span { color:#fc4f4f;}
 @media only screen and (max-width: 767px) { 
 .blox.dark, .blox.gray { height:auto;}
@@ -77,6 +77,6 @@ img.drod { padding:4px; background:#f2f6f8; border-radius: 7px;}
 @media only screen and (max-width: 959px) { 
 .parallax-sec { background-repeat:repeat; background-size:960px auto;   height:400px;}
 .homedark { height:auto; background-size:cover; }
-.slogan h1 { font-size:41px; line-height:53px;}
+.slogan h1 { font-size:30px; line-height:53px;}
 .aboutdark .slogan { position:relative; right:auto; margin:0 auto; padding:3%;}
 }
