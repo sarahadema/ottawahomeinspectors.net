@@ -21,3 +21,4 @@ if(!sendmail::send($Email , $contactEmail , $Text , $Subject ))
    die('Could not send message. failed to connect to mailserver.');
    
 echo '1';
+?>
