@@ -59,6 +59,7 @@ img.drod { padding:4px; background:#f2f6f8; border-radius: 7px;}
 .parallax-sec .blox, .parallax-sec .blox.dark { background:none;}
 
 .homedark, .aboutdark { width:100%; background:#595959;top; height:450px; border-bottom: 4px solid #f1f1f1; position:relative;}
+.homedark, .aboutdark { width:100%; background:#595959;top; height:450px; border-bottom: 4px solid #f1f1f1; position:relative;}
 .aboutdark {background:#eee url(../images/about-ext-img1.jpg) center top fixed; height:645px; border:none;}
 .homedark #nav a { color:#fff;}
 .homedark #nav ul a { color:#595959;}
