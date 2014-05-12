@@ -1617,3 +1617,18 @@ a:visited  {
 	.progress-warning .bar, .progress-orange .bar {
 	  background-color: #f98805;
 	}
+
+    .homeinfo {
+        overflow: hidden;
+        float: left;
+        margin: 0 5%;
+        
+    }
+
+    .homecontact {
+        overflow: hidden;
+        float: right;
+        position: absolute;
+        margin: 0 20% 0 ;
+    }
+
