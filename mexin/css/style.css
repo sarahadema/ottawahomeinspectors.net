@@ -945,7 +945,7 @@ input.btn404 { float:left; margin:1px; padding:8px 12px 9px; }
 
 	
 	.nav-wrap2, .nav-wrap2.darknavi { border:0 none; box-shadow:0 0 0 0; background:none;}
-	.top-bar { height:65px; padding:5px 0 6px; background:red repeat-x center center;}
+	.top-bar { height:65px; padding:5px 0 6px; background:#595959 repeat-x center center;}
 	.top-bar .socailfollow, .top-links, .top-links.rgtflot, .top-bar .socailfollow.lftflot { float:none; text-align:center; clear:both;}
 	.top-bar .socailfollow, .top-bar .socailfollow.lftflot  {  padding-top:8px;}
 	.top-bar .socailfollow a, .top-bar .socailfollow.lftflot a, .top-links p, .top-links img { float:none; display:inline; padding-top:10px; background:none;}

@@ -22,7 +22,8 @@
 		border: 0;
 		font-size: 100%;
 		font: inherit;
-		vertical-align: baseline; }
+		vertical-align: baseline;
+    }
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block; }
 	body {
@@ -68,7 +69,7 @@ a:visited  {
 	h1, h2, h3, h4, h5, h6 {
 		color: #333;
 		font-family: "Open Sans", Helvetica, Arial, sans-serif; 
-		font-weight: 300; 
+		font-weight: 300;
     }
 
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { 
@@ -77,21 +78,21 @@ a:visited  {
 
 	h1 { 
         font-size: 49px; 
-        line-height: 51px; 
-        margin-bottom: 20px; 
+        line-height: 3rem; 
+        margin-bottom: 1.5rem; 
         letter-spacing: -0.06em; 
     }
 
 	h2 { 
         font-size: 35px; 
-        line-height: 40px; 
+        line-height: 3rem; 
         margin-bottom: 20px; 
         letter-spacing: -0.04em; 
     }
 
 	h3 { 
         font-size: 28px; 
-        line-height: 34px; 
+        line-height: 3rem; 
         margin-bottom: 14px; 
     }
 
