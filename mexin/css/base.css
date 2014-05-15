@@ -77,17 +77,18 @@ a:visited  {
     }
 
 	h1 { 
-        font-size: 49px; 
-        line-height: 3rem; 
+        font-size: 4rem; 
+        line-height: 4rem; 
         margin-bottom: 1.5rem; 
-        letter-spacing: -0.06em; 
+        letter-spacing: -0.06em;
     }
 
 	h2 { 
-        font-size: 35px; 
+        font-size: 3rem; 
         line-height: 3rem; 
         margin-bottom: 20px; 
-        letter-spacing: -0.04em; 
+        letter-spacing: -0.08em;
+        text-transform: uppercase;
     }
 
 	h3 { 
@@ -97,8 +98,8 @@ a:visited  {
     }
 
 	h4 { 
-        font-size: 21px; 
-        line-height: 30px; 
+        font-size: 1rem; 
+        line-height: 1.5rem; 
         margin-bottom: 12px; 
     }
 
@@ -749,7 +750,7 @@ a:visited  {
 	  line-height: 18px;
 	  color: #000000;
 	  text-shadow: 0 1px 0 #ffffff;
-	  opacity: 0.2;
+	  opacity: 20;
 	  filter: alpha(opacity=20);
 	}
 	
@@ -1623,6 +1624,10 @@ a:visited  {
         overflow: hidden;
         float: left;
         margin: 0 5%;
+        
+    }
+
+    aside {
         
     }
 
