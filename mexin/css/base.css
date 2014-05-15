@@ -578,7 +578,7 @@ a:visited  {
 	}
 	
 	.dropdown-toggle {
-	  *margin-bottom: -3px;
+	  margin-bottom: -3px;
 	}
 	
 	.dropdown-toggle:active,
@@ -751,7 +751,7 @@ a:visited  {
 	  color: #000000;
 	  text-shadow: 0 1px 0 #ffffff;
 	  opacity: 20;
-	  filter: alpha(opacity=0.2);
+	  filter: alpha(opacity=20);
 	}
 	
 	.close:hover {
@@ -759,7 +759,7 @@ a:visited  {
 	  text-decoration: none;
 	  cursor: pointer;
 	  opacity: 40;
-	  filter: alpha(opacity=0.4);
+	  filter: alpha(opacity=40);
 	}
 	
 	.nav {
