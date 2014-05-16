@@ -13,7 +13,6 @@
 				color: white;
 				background: #0093d0;
 				opacity: .74;
-				filter: alpha(opacity=70);
 				width: 650px;
 				text-align: center;
 			}
@@ -22,7 +21,6 @@
 				color: white;
 				background: #0093d0;
 				opacity: .69;
-				filter: alpha(opacity=60); 
 				white-space: nowrap;
 				left:0;
 			}
