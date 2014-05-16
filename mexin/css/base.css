@@ -77,10 +77,10 @@ a:visited  {
     }
 
 	h1 { 
-        font-size: 4rem; 
-        line-height: 4rem; 
-        margin-bottom: 1.5rem; 
-        letter-spacing: -0.06em;
+        font-size: 3rem;
+        line-height: 5rem;
+        letter-spacing: -0.09rem;
+        margin: 0 0 2rem 0;
     }
 
 	h2 { 
@@ -1616,10 +1616,6 @@ a:visited  {
         overflow: hidden;
         float: left;
         margin: 0 5%;
-        
-    }
-
-    aside {
         
     }
 
