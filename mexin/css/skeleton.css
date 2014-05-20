@@ -182,6 +182,10 @@
         .container .offset-by-fifteen               { padding-left: 720px; }
     }
 
+        form {
+            float: none;
+        }
+
 
 /*  #Mobile (Portrait)
 ================================================== */
@@ -234,6 +238,8 @@
         .container .offset-by-fifteen { padding-left: 0; }
 
     }
+
+
 
 
 /* #Mobile (Landscape)
